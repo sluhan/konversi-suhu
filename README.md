@@ -1,15 +1,46 @@
-# konversi-suhu
+# Konversi Suhu
 
-Cara menjalankan di Termux
-```
+Hallo teman-teman semuanya ini adalah projek sederhana saya menggunakan bahasa pemrograman C++, projek ini dibuat untuk tujuan pembelajaran dan penyelesaian tugas saya di mata pelajaran Informatika.
+
+## Daftar isi
+
+- Requirement
+- Instaling
+- Testing
+- Support Me
+
+## Requirement
+
+Module yang dibutuhkan hanya module C++, saya menggunakan module Clang Versi 18.1.2
+
+## Instaling
+Sebelum menjalankan projek tentunya kita harus menginstall beberapa bahan yang dibutuhkan:
+1. Memperbaharui Packages
+  ```sh
 pkg update && pkg upgrade
+```
+2. Menginstall Git
+  ```sh
 pkg install git
+```
+3. Menginstall module Clang
+  ```sh
 pkg install clang
+```
+4. Kloning Projek
+```sh
 git clone https://github.com/sluhan/konversi-suhu
 cd konversi-suhu
-g++ k-suhu.cpp -o ./output
+```
+
+## Testing
+Mencoba menjalankan program yang sudah diinstall
+```sh
+cd konversi-suhu
+g++ konversi-suhu -o ./output
 ./output
 ```
+![Alt output](https://i.ibb.co/KGb3czH/IMG-20240414-191639.jpg)
 
 > [!NOTE]
 > Projek ini adalah salah satu tugas Informatika saya.
