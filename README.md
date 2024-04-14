@@ -10,3 +10,6 @@ cd konversi-suhu
 g++ k-suhu.cpp -o ./output
 ./output
 ```
+
+> [!NOTE]
+> Projek ini adalah salah satu tugas Informatika saya.
