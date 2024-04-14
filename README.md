@@ -33,10 +33,17 @@ git clone https://github.com/sluhan/konversi-suhu
 ```
 
 ## Testing
-Mencoba menjalankan program yang sudah diinstall
+Mencoba menjalankan program yang sudah diinstall dan ikut langkah-langkah dibawah:
+1. Mengganti Direktori
 ```sh
 cd konversi-suhu
+```
+2. Menjalankan kode
+```sh
 g++ konversi-suhu -o ./output
+```
+3. Mengambil output
+```sh
 ./output
 ```
 ![Alt output](https://i.ibb.co/YLBzxRg/IMG-20240414-192143.jpg)
