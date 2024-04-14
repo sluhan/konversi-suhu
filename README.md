@@ -23,7 +23,7 @@ pkg update && pkg upgrade
   ```sh
 pkg install git
 ```
-3. Menginstall module Clang
+3. Menginstall Clang
   ```sh
 pkg install clang
 ```
@@ -33,7 +33,7 @@ git clone https://github.com/sluhan/konversi-suhu
 ```
 
 ## Testing
-Mencoba menjalankan program yang sudah diinstall dan ikut langkah-langkah dibawah:
+Mencoba menjalankan program yang sudah diinstall dan ikuti langkah-langkah dibawah:
 1. Mengganti Direktori
 ```sh
 cd konversi-suhu
