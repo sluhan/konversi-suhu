@@ -40,7 +40,7 @@ cd konversi-suhu
 ```
 2. Menjalankan kode
 ```sh
-g++ konversi-suhu -o ./output
+g++ k-suhu.cpp -o ./output
 ```
 3. Mengambil output
 ```sh
