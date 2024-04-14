@@ -46,7 +46,7 @@ g++ konversi-suhu -o ./output
 ```sh
 ./output
 ```
-![Alt output](https://i.ibb.co/YLBzxRg/IMG-20240414-192143.jpg)
+![output](https://i.ibb.co/YLBzxRg/IMG-20240414-192143.jpg)
 
 ## Support Me
 Kalian bisa support saya dengan follow github ini atau dengan memberikan star :)
