@@ -51,5 +51,5 @@ g++ konversi-suhu -o ./output
 ## Support Me
 Kalian bisa support saya dengan follow github ini atau dengan memberikan star :)
 
-> [!INFO]
-> Projek ini adalah salah satu tugas Informatika saya.
+> [!TIP]
+> Projek ini bisa kalian kembangkan menjadi lebih baik atau lebih modern lagi.
