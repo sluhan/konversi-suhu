@@ -30,7 +30,6 @@ pkg install clang
 4. Kloning Projek
 ```sh
 git clone https://github.com/sluhan/konversi-suhu
-cd konversi-suhu
 ```
 
 ## Testing
@@ -40,7 +39,10 @@ cd konversi-suhu
 g++ konversi-suhu -o ./output
 ./output
 ```
-![Alt output](https://i.ibb.co/KGb3czH/IMG-20240414-191639.jpg)
+![Alt output](https://i.ibb.co/YLBzxRg/IMG-20240414-192143.jpg)
+
+## Support Me
+Kalian bisa support saya dengan follow github ini atau dengan memberikan star :)
 
 > [!NOTE]
 > Projek ini adalah salah satu tugas Informatika saya.
