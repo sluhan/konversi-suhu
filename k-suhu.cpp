@@ -6,9 +6,6 @@ int main() {
     float suhu;
     float cF, fC, cK, kC, fK, kF;
 
-    cout << "Masukkan suhu: ";
-    cin >> suhu;
-
     cout << "Pilih konversi suhu:" << endl;
     cout << "1. Celsius ke Fahrenheit" << endl;
     cout << "2. Fahrenheit ke Celsius" << endl;
@@ -18,6 +15,9 @@ int main() {
     cout << "6. Kelvin ke Fahrenheit" << endl;
     cout << "Masukkan pilihan Anda (1-6): ";
     cin >> pilihan;
+
+    cout << "Masukkan suhu: ";
+    cin >> suhu;
 
     switch(pilihan) {
         case 1:
